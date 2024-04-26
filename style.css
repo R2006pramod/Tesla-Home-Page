@@ -1,0 +1,160 @@
+.body{
+    margin: 0px;
+}
+
+.d1{
+    width: 100vw;
+    height: 8vh;
+
+    color: white;
+    font-family: Gotham SSm;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image:radial-gradient(54.97% 272.54% at 27.36% -134.72%, rgba(108, 148, 255, .92)0, rgba(0, 0, 0, .92)100%);
+}
+
+.d3{
+font-size: 17px;
+font-weight: 500;
+}
+
+.d4{
+    font-size: 14px;
+}
+
+.a1{
+    color:white;
+    text-underline-offset: 3px;
+}
+.video{
+    width:100vw;
+    height: 92vh;
+    object-fit:cover;
+    position: fixed;
+}
+.d2 {
+    width:100vw;
+    height:92vh;
+    background-color:transparent;
+    position: fixed;
+}
+.i1{
+    width: 120px;
+    margin-top: 21px;
+    margin-left: 48px;
+}
+.item1 {
+    color:white;
+    font-family: Gotham SSm;
+    font-size:14px;
+    font-weight: 500;
+    display: inline;
+    margin-left: 29px;
+    cursor:pointer;
+}
+.list1 {
+    margin-left: 500px;
+    margin-top: -20px;
+}
+
+.i2{
+    width:20px;
+}
+.item2{
+    display:inline;
+    margin-left: 12px;
+}
+
+.list2{
+    margin-left: 1350px;
+    margin-top: -35px;
+}
+
+.d5{
+    display:flex;
+    justify-content: center;
+
+    font-size: 40.5px;
+    font-weight: 500;
+    color: white;
+    font-family: Gotham SSm;
+
+
+    margin-top: 28px;
+    margin-left: -12px;
+}
+.d6{
+    display:flex;
+    font-size: 20px;
+    font-family: Gotham SSm;
+    justify-content: center;
+    color:white;
+    
+
+    margin-left:-16px;
+}
+
+.d7 {
+    display: flex;
+    justify-content: center;
+    margin-top: 358px;
+}    
+
+.BTN1{
+    width: 256px;
+    height:42px;
+
+    background-color:rgba(0, 0, 0, .92);
+    opacity: 0.8;
+
+    color:white;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Gotham SSm;
+
+    border:none;
+    border-radius: 5px;
+    cursor:pointer;
+    
+
+}
+.BTN2{
+   width: 256px;
+    height:42px;
+
+    background-color:white;
+    opacity: 0.8;
+    color:rgb;
+
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Gotham SSm;
+
+    border:none;
+    border-radius: 5px;
+    cursor:pointer;
+
+    margin-left: 25px;
+
+}
+.D8{
+color:white;
+font-family: Gotham SSm;
+font-size: 12px ;
+
+display: flex;
+justify-content: center;
+margin-top: 30px;
+
+}
+
+.a2{
+    color: white;
+    text-underline-offset: 3px;
+}
+
+
+
